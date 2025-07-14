@@ -67,18 +67,6 @@ Please refer to their repository for original licensing information and academic
 
 ---
 
-## 🧩 Future Work
+<img width="1530" height="359" alt="image" src="https://github.com/user-attachments/assets/e4e4c70f-853c-41f7-a308-588492ac3654" />
 
-* Extend to real-time stereo camera input
-* Improve robustness of object detection
-* Integrate with path planning modules
 
----
-
-For issues or contributions, feel free to open an issue or pull request.
-
----
-
-**Author:** *Your Name Here*
-
-**Last updated:** July 2025
