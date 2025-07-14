@@ -1,6 +1,6 @@
 # Stereo-Based Car Distance Estimation
 
-This repository implements a stereo vision pipeline for object detection and distance estimation using disparity maps and stereo camera calibration. The code is designed to process stereo images, enhance them adaptively, compute 3D point clouds, detect cars using a trained cascade classifier, and estimate distances to the detected objects.
+This repository implements a stereo vision pipeline for object detection and distance estimation using disparity maps and stereo camera calibration. The code is designed to process stereo images, enhance them adaptively, compute 3D point clouds, detect cars using a trained cascade classifier, and estimate distances to the detected objects. The dataset has not been provided here. Please refer to  auvsi-cv-all  for that. The full link of the repository has been mentioned in next couple of sections. 
 
 ---
 
@@ -19,8 +19,6 @@ This repository implements a stereo vision pipeline for object detection and dis
 
 ### 📁 Folders
 
-* `image/` - Contains stereo image dataset.
-* `media/` - May contain resources or documentation assets.
 * `saved_frames/` - Output folder where annotated result images are saved.
 
 > **Dataset Source**: Stereo images and base MATLAB code were obtained from [sseshadr/auvsi-cv-all](https://github.com/sseshadr/auvsi-cv-all)
